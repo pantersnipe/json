@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "galaxy s22 plus 5g",
+    "price": 40000000,
+    "active": true,
+    "images": "/images/sam/galaxy-s22-plus-5g",
+    "manufacture": "Samsung",
+    "manufactureId": 1,
+    "count": 3
+  },
+  {
+    "id": 2,
+    "name": "galaxy s22 5g",
+    "price": 28450000,
+    "active": true,
+    "images": "../images/sam/galaxy-s22-5g",
+    "manufacture": "Samsung",
+    "manufactureId": 1,
+    "count": 8
+  },
+  {
+    "id": 3,
+    "name": "galaxy s21 fe 5g",
+    "price": 17500000,
+    "active": true,
+    "images": "../images/sam/galaxy-s21-fa-5g",
+    "manufacture": "Samsung",
+    "manufactureId": 1,
+    "count": 5
+  },
+  {
+    "id": 4,
+    "name": "galaxy tab s8",
+    "price": 18000000,
+    "active": false,
+    "images": "../images/sam/galaxy-tab-s8",
+    "manufacture": "Samsung",
+    "manufactureId": 1,
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "galaxy s22 ultra",
+    "price": 3580000,
+    "active": true,
+    "images": "../images/Samsung/galaxy-s22-ultra",
+    "manufacture": "Samsung",
+    "manufactureId": 1,
+    "count": 12
+  },
+  {
+    "id": 6,
+    "name": "iphone 13",
+    "price": 73400,
+    "active": true,
+    "images": "../images/Samsung/13",
+    "manufacture": "Iphone",
+    "manufactureId": 2,
+    "count": 4
+  },
+  {
+    "id": 7,
+    "name": "iphone 13 pro max",
+    "price": 129900,
+    "active": true,
+    "images": "../images/Samsung/13-pro-max",
+    "manufacture": "Iphone",
+    "manufactureId": 2,
+    "count": 45
+  },
+  {
+    "id": 8,
+    "name": "iphone SE(2022)",
+    "price": 41900,
+    "active": true,
+    "images": "../images/Samsung/se-2022",
+    "manufacture": "Iphone",
+    "manufactureId": 2,
+    "count": 1
+  },
+  {
+    "id": 9,
+    "name": "iphone 12 pro max",
+    "price": 113905,
+    "active": true,
+    "images": "../images/Samsung/12-pro-max",
+    "manufacture": "Iphone",
+    "manufactureId": 2,
+    "count": 70
+  },
+  {
+    "id": 10,
+    "name": "iphone 7 plus",
+    "price": 26999,
+    "active": true,
+    "images": "../images/Samsung/galaxy z fold",
+    "manufacture": "Iphone",
+    "manufactureId": 2,
+    "count": 12
+  }
+]
